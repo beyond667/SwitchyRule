@@ -11,6 +11,7 @@ https://cdn.optimizely.com/*
 *://connect.facebook.net/*
 *://*.fbcdn.net/*
 *git-scm.com/*
+https://github.global.ssl.fastly.net/*
 *://twitter.com/*
 *://*.twitter.com/*
 *://t.co/*
