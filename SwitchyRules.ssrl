@@ -46,8 +46,7 @@ http://www.jetbrains.com/*
 https://*.googlecode.com/*
 https://*.googleapis.com/*
 https://popapp.in/*
-http://www.blogger.com/*
-https://www.blogger.com/*
+*://www.blogger.com/*
 [regexp]
 
 
