@@ -48,6 +48,7 @@ https://*.googleapis.com/*
 https://popapp.in/*
 *://www.blogger.com/*
 http://*.mindmup.com/*
+https://*.cloudfront.net/*
 [regexp]
 
 
