@@ -48,6 +48,7 @@ https://popapp.in/*
 http://*.mindmup.com/*
 https://*.cloudfront.net/*
 https://ajax.cloudflare.com/*
+*.imgur.com/*
 [regexp]
 
 
