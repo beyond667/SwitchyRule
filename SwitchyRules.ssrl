@@ -42,7 +42,7 @@ https://api.wunderlist.com/*
 http://jshint.com/*
 http://www.jetbrains.com/*
 https://*.googlecode.com/*
-https://*.googleapis.com/*
+*://*.googleapis.com/*
 https://popapp.in/*
 *://www.blogger.com/*
 http://*.mindmup.com/*
