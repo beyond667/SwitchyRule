@@ -49,6 +49,7 @@ http://*.mindmup.com/*
 https://*.cloudfront.net/*
 https://ajax.cloudflare.com/*
 *.imgur.com/*
+*.flickr.com/*
 [regexp]
 
 
