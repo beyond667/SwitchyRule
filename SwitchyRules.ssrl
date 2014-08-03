@@ -52,6 +52,7 @@ https://ajax.cloudflare.com/*
 *.flickr.com/*
 https://*.apple.com/*
 *.amazon.com/*
+*.aws.amazon.com/*
 [regexp]
 
 
