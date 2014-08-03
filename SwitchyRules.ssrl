@@ -51,7 +51,7 @@ https://ajax.cloudflare.com/*
 *.imgur.com/*
 *.flickr.com/*
 https://*.apple.com/*
-https://*.amazon.com/*
+*.amazon.com/*
 [regexp]
 
 
