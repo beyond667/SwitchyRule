@@ -54,6 +54,7 @@ https://*.apple.com/*
 *.amazon.com/*
 *.aws.amazon.com/*
 https://cdn.kastatic.org/*
+https://www.gravatar.com/*
 [regexp]
 
 
