@@ -25,6 +25,7 @@ https://*.atlassian.com/*
 *.google.com/*
 *.googleusercontent.com/*
 https://angularjs.org/*
+https://*.angularjs.org/*
 *.php.net/*
 *.ytimg.com/*
 golang.org/*
