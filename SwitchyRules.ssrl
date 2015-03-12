@@ -24,6 +24,7 @@ https://*.atlassian.com/*
 *.google.com.hk/*
 *.google.com/*
 *.googleusercontent.com/*
+https://angularjs.org/*
 *.php.net/*
 *.ytimg.com/*
 golang.org/*
