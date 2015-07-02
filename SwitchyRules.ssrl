@@ -61,7 +61,7 @@ https://cdn.kastatic.org/*
 https://www.gravatar.com/*
 https://*.heroku.com/*
 https://*.herokuapp.com/*
-*.shipio-production-herokuapp-com.global.ssl.fastly.net/*
+https://shipio-production-herokuapp-com.global.ssl.fastly.net/*
 [regexp]
 
 
