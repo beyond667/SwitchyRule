@@ -24,6 +24,7 @@ https://*.atlassian.com/*
 *.google.com.hk/*
 *.google.com/*
 *.googleusercontent.com/*
+*.android.com/*
 https://*.ggpht.com/*
 https://angularjs.org/*
 https://*.angularjs.org/*
