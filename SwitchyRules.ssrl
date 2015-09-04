@@ -10,7 +10,6 @@ https://cdn.optimizely.com/*
 *.facebook.com/*
 *://connect.facebook.net/*
 *://*.fbcdn.net/*
-*git-scm.com/*
 https://github.global.ssl.fastly.net/*
 *://twitter.com/*
 *://*.twitter.com/*
@@ -56,8 +55,6 @@ https://ajax.cloudflare.com/*
 *.imgur.com/*
 *.flickr.com/*
 https://*.apple.com/*
-*.amazon.com/*
-*.aws.amazon.com/*
 https://cdn.kastatic.org/*
 https://www.gravatar.com/*
 https://*.heroku.com/*
