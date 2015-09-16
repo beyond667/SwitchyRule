@@ -52,7 +52,6 @@ http://*.mindmup.com/*
 https://ajax.cloudflare.com/*
 *.imgur.com/*
 *.flickr.com/*
-https://*.apple.com/*
 https://cdn.kastatic.org/*
 https://www.gravatar.com/*
 https://*.heroku.com/*
