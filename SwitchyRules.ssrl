@@ -4,7 +4,6 @@
 #BEGIN
 
 [wildcard]
-https://bitbucket.org*
 https://cdn.optimizely.com/*
 *.facebook.com/*
 *://connect.facebook.net/*
