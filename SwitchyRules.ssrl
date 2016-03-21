@@ -52,12 +52,13 @@ http://*.mindmup.com/*
 https://ajax.cloudflare.com/*
 *.imgur.com/*
 *.flickr.com/*
-http://yu.uk1024.net/*
 https://cdn.kastatic.org/*
 https://www.gravatar.com/*
 https://*.heroku.com/*
 https://*.herokuapp.com/*
 https://shipio-production-herokuapp-com.global.ssl.fastly.net/*
+*.greenhouseci.com/*
+*.uk1024.net/*
 [regexp]
 
 
