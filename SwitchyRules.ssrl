@@ -4,6 +4,7 @@
 #BEGIN
 
 [wildcard]
+*.rfi.my/*
 *.google.com/*
 *.google.com.hk/*
 https://cdn.optimizely.com/*
