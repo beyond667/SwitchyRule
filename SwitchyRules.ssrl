@@ -4,6 +4,7 @@
 #BEGIN
 
 [wildcard]
+*.google.com.hk/*
 https://cdn.optimizely.com/*
 *.facebook.com/*
 *://connect.facebook.net/*
