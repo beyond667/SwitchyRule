@@ -62,6 +62,7 @@ https://*.herokuapp.com/*
 https://shipio-production-herokuapp-com.global.ssl.fastly.net/*
 *.greenhouseci.com/*
 http://km.1024ky.com/*
+http://cp.u9un.com/*
 [regexp]
 
 
